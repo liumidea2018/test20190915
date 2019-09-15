@@ -5,6 +5,10 @@ public class H {
     }
 
     public static void test1(){
-        System.out.println(2);
+        System.out.println(21);
+    }
+
+    public void test5(){
+        System.out.println(21);
     }
 }
