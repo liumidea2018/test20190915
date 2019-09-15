@@ -11,4 +11,8 @@ public class H {
     public void test5(){
         System.out.println(21);
     }
+
+    public void test6(){
+        System.out.println(81);
+    }
 }
