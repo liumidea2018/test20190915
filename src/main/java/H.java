@@ -19,4 +19,8 @@ public class H {
     public void test8(){
         System.out.println(11);
     }
+
+    public void test9(){
+        System.out.println(111);
+    }
 }
